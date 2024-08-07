@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![](https://komarev.com/ghpvc/?username=yajasarora&color=009688&style=for-the-badge&label=Profile+Views)](https://abhishekkandel45.github.io/Githubprofiler/)
+
 🔭 I’m currently working on a project involving comic generation using state-of-the-art image generation models. <br>🌱 I’m currently learning advanced techniques in data science and machine learning, including fine-tuning deep learning models and energy solutions in wearable technology.<br>👯 I’m looking to collaborate on data analysis, data visualization, predictive modeling projects, and innovative tech solutions like energy harvesting wearables.<br>🤔 I’m looking for help with finding a Data Science job in top MNC's<br>💬 Ask me about my expertise in Python, Tableau, SQL, Linux/UNIX, Streamlit, and Office 365. I also have experience with machine learning frameworks like Scikit-learn and TensorFlow-Keras. <br>📫 How to reach me: yajasarora22030@gmail.com | [LinkedIn](https://www.linkedin.com/in/yajasarora) | GitHub | +91-9899643169 <br>😄 Pronouns: He/His<br>⚡ Fun fact: I play Chess and Guitar pretty well :D
 
 
