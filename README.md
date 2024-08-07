@@ -2,9 +2,6 @@
 
 🔭 I’m currently working on a project involving comic generation using state-of-the-art image generation models. <br>🌱 I’m currently learning advanced techniques in data science and machine learning, including fine-tuning deep learning models and energy solutions in wearable technology.<br>👯 I’m looking to collaborate on data analysis, data visualization, predictive modeling projects, and innovative tech solutions like energy harvesting wearables.<br>🤔 I’m looking for help with finding a Data Science job in top MNC's<br>💬 Ask me about my expertise in Python, Tableau, SQL, Linux/UNIX, Streamlit, and Office 365. I also have experience with machine learning frameworks like Scikit-learn and TensorFlow-Keras. <br>📫 How to reach me: yajasarora22030@gmail.com | [LinkedIn](https://www.linkedin.com/in/yajasarora) | [GitHub](https://www.github.com/yajasarora) | +91-9899643169 <br>😄 Pronouns: He/His<br>⚡ Fun fact: I play Chess and Guitar pretty well :D
 
-
-## 👨 Social Profiles
-![](https://img.shields.io/github/followers/yajasarora?color=%23009688&label=Follow&style=for-the-badge)  ![](https://img.shields.io/github/stars/yajasarora?affiliations=OWNER%2CCOLLABORATOR&color=%23009688&label=Stars&style=for-the-badge)  
 ## 🌐 Socials:
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19485891) [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yajasarora) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yajas.arora.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yajasarora) undefined
 
