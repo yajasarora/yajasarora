@@ -11,7 +11,7 @@ Passionate Creator and Tech Enthusiast
 ![](https://github-profile-trophy.vercel.app/?username=yajasarora&theme=discord&no-bg=false&no-frame=false&margin-h=0&margin-w=5)
 
 ## 👨 Social Profiles
-![](https://img.shields.io/github/followers/yajasarora?color=%23009688&label=Followers&style=for-the-badge)  ![](https://img.shields.io/github/stars/yajasarora?affiliations=OWNER%2CCOLLABORATOR&color=%23009688&label=Stars&style=for-the-badge)  
+![](https://img.shields.io/github/followers/yajasarora?color=%23009688&label=Follow&style=flat)  ![](https://img.shields.io/github/stars/yajasarora?affiliations=OWNER%2CCOLLABORATOR&color=%23009688&label=Stars&style=flat)  
 
 ## 🌐 Socials:
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19485891) [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yajasarora) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yajas.arora.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yajasarora)
