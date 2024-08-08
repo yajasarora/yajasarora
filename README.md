@@ -5,7 +5,7 @@ Passionate Creator and Tech Enthusiast
 --------------------------------
 
 # 💫 About Me:
-🔭 I’m currently working on a project involving comic generation from scripts. <br>🌱 I’m currently learning advanced data science and machine learning techniques. <br>👯 I’m looking to collaborate on data analysis, data visualization, and predictive modelling projects. <br>🤔 I’m looking for help finding a Data Science job in top MNCs <br>💬 Ask me about my expertise in Python, Tableau, SQL, Linux/UNIX, and Office 365. I also have experience with machine learning frameworks like Scikit-learn and TensorFlow-Keras. <br>📫 How to reach me: yajasarora22030@gmail.com | [LinkedIn](https://www.linkedin.com/in/yajasarora) | [GitHub](https://www.github.com/yajasarora) | +91-9899643169 <br>😄 Pronouns: He/His<br>⚡ Fun fact: I play Chess and Guitar pretty well :D
+🔭 I’m currently working on a project involving comic generation from scripts. <br>🌱 I’m currently learning advanced data science and machine learning techniques. <br>👯 I’m looking to collaborate on data analysis, data visualization, and predictive modelling projects. <br>🤔 I’m looking for help finding a Data Science job in top MNCs <br>💬 Ask me about my expertise in Python, ML, Tableau, SQL, Linux/UNIX, and Office 365.<br>📫 How to reach me: yajasarora22030@gmail.com | [LinkedIn](https://www.linkedin.com/in/yajasarora) | [GitHub](https://www.github.com/yajasarora) | +91-9899643169 <br>😄 Pronouns: He/His<br>⚡ Fun fact: I play Chess and Guitar pretty well :D
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yajasarora&theme=discord&no-bg=false&no-frame=false&margin-h=0&margin-w=5)
